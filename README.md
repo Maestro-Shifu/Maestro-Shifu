@@ -22,14 +22,14 @@ let's get to know each other
 
 🔭  I'm a data analyst with a solid background in business and finance that I have developed during my years working as a CPA.
 
-I have experience in finance, international business, circular economy and also i'm a tireless entrepreneur.
+   I have experience in finance, international business, circular economy and also i'm a tireless entrepreneur.
 
-⚡ Fun fact: Passion for the collaborative economy and green technology and how we can use them to generate an environmental impact and accessibility for all.
+⚡ Super fact: Passion for the collaborative economy and green technology and how we can use them to generate an environmental impact and accessibility for all.
 
 🌱 I’m currently learning a professional certification in Data Science.
 
 
-#R #PostgreSQL #PowerBI There are some of the technologies that I handle and I am passionate about.
+  #R #PostgreSQL #PowerBI There are some of the technologies that I handle and I am passionate about.
 
 📫 How to reach me: https://www.linkedin.com/in/raul-gabriel-marquez/
 
