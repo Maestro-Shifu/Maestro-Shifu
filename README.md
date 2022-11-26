@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 let's get to know each other 
 
-I'm a data analyst with a solid background in business and finance that I have developed during my years working as a CPA.
+🔭  I'm a data analyst with a solid background in business and finance that I have developed during my years working as a CPA.
 
 I have experience in finance, international business, circular economy and also i'm a tireless entrepreneur.
 
@@ -32,3 +32,4 @@ I have experience in finance, international business, circular economy and also 
 #R #PostgreSQL #PowerBI There are some of the technologies that I handle and I am passionate about.
 
 📫 How to reach me: https://www.linkedin.com/in/raul-gabriel-marquez/
+
